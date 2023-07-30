@@ -1,10 +1,12 @@
 # Autoradio
 
-Autoradio is a [spicetify](https://github.com/spicetify/spicetify) extension that reminds you what you have been listening to most recently with real-time audio interruptions akin to a radio host.
+autoradio is an openly configurable artificially intelligent radio DJ
 
-Spotify has recently implemented its own version of an AI Radio DJ, but Bunkbed is of the opinion that it can be greatly improved.
+Extend the [Spicetify client for Spofity](https://github.com/spicetify/spicetify) to listen along to the radio with an AI powered DJ that will give you more details about the songs you've listend than just their title and artist. 
 
-## Features to Implement
+## Details
+
+Spotify has recently implemented its own version of an AI radio DJ, but Bunkbed is of the opinion that it can be greatly improved.
 
 - Stop audio playback to inform the listener of previous listened tracks and what's coming up next
 - Give the listener background information about the song or artist, based on what it can glean from using free LLM APIs
